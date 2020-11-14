@@ -47,7 +47,7 @@ const App = () => {
           {renderMoves()}
           </div>
           <div><Game squares={prevMove[position]} onClick={handleClick}  /></div>
-  <h3>{winner ? "winner: " + winner : "Next Player : " + xo}</h3>
+  <h3>{winner ? "winner: " + winner : "Next Player: " + xo}</h3>
       </div>
     </div>
   );
