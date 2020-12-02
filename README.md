@@ -13,4 +13,8 @@
  ###   8.Empty side: The player plays in a middle square on any of the 4 sides.
 
 
+<<<<<<< HEAD
  ## Happy Gaming!!!!!
+=======
+ ## Happy Gaming!!!
+>>>>>>> a83eabf27df3e64dc5865573eb2bbee14953b8a1
